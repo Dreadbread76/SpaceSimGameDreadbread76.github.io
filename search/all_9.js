@@ -1,17 +1,6 @@
 var searchData=
 [
-  ['map_20',['Map',['../d8/d20/namespace_spacegame_1_1_map.html',1,'Spacegame']]],
-  ['player_21',['Player',['../dd/d08/namespace_spacegame_1_1_ship_1_1_player.html',1,'Spacegame::Ship']]],
-  ['section_22',['Section',['../d8/d98/class_readme_1_1_section.html',1,'Readme']]],
-  ['setanisotropicfiltering_23',['SetAnisotropicFiltering',['../d8/dfa/class_options_menu.html#acac9343f706cc8398ae91ed5a9b62b2d',1,'OptionsMenu']]],
-  ['setframerate_24',['SetFrameRate',['../d8/dfa/class_options_menu.html#a2371cf056c533e3780123878a70d5341',1,'OptionsMenu']]],
-  ['setphysicsinput_25',['SetPhysicsInput',['../d6/d07/class_ship_physics.html#ac32e59e155e90861a4714f195c104bb9',1,'ShipPhysics']]],
-  ['setresolution_26',['SetResolution',['../d8/dfa/class_options_menu.html#aa66b7a6ec22e87d7bf4b4b4c242d1f35',1,'OptionsMenu']]],
-  ['setstickcommandusingmouse_27',['SetStickCommandUsingMouse',['../dc/d16/class_spacegame_1_1_ship_1_1_player_1_1_ship_input.html#a5539af3367dee994c57f1780a89094af',1,'Spacegame::Ship::Player::ShipInput']]],
-  ['ship_28',['Ship',['../d4/dfb/namespace_spacegame_1_1_ship.html',1,'Spacegame']]],
-  ['shipinput_29',['ShipInput',['../dc/d16/class_spacegame_1_1_ship_1_1_player_1_1_ship_input.html',1,'Spacegame::Ship::Player']]],
-  ['shipphysics_30',['ShipPhysics',['../d6/d07/class_ship_physics.html',1,'']]],
-  ['shipscript_31',['ShipScript',['../d8/dd3/class_ship_script.html',1,'']]],
-  ['simplecameracontroller_32',['SimpleCameraController',['../d1/d92/class_unity_template_projects_1_1_simple_camera_controller.html',1,'UnityTemplateProjects']]],
-  ['spacegame_33',['Spacegame',['../de/de8/namespace_spacegame.html',1,'']]]
+  ['unitytemplateprojects_29',['UnityTemplateProjects',['../dc/d01/namespace_unity_template_projects.html',1,'']]],
+  ['updatekeyboardthrottle_30',['UpdateKeyboardThrottle',['../dc/d16/class_spacegame_1_1_ship_1_1_player_1_1_ship_input.html#af5774da0e26c2accad69768bf468e72d',1,'Spacegame::Ship::Player::ShipInput']]],
+  ['updatemousewheelthrottle_31',['UpdateMouseWheelThrottle',['../dc/d16/class_spacegame_1_1_ship_1_1_player_1_1_ship_input.html#adad39e3115bc2e7d1ad977e1852c2a11',1,'Spacegame::Ship::Player::ShipInput']]]
 ];
